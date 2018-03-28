@@ -12,6 +12,8 @@ lab 3:使用VLC開啟網路串流並轉檔
 
 lab 4:使用VLC播放本地端影片開啟網路串流播放
 
+# ffmpeg
+lab 1:安裝ffmpeg
 
 ab 2:使用ffplay播放本地端影片
 
